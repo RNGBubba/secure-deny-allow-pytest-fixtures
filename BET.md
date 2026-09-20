@@ -12,6 +12,6 @@ Security boundary: local in-memory demo only; no third-party probing, exploit pa
 
 Repository: https://github.com/RNGBubba/secure-deny-allow-pytest-fixtures
 
-Published commit: dfae6039cbebdd3faf53cc9c4788540b416fc860.
+Published commit: ff7f4f4199f0d2baa54d2d7949749bc0f30812d1.
 
 Verification is recorded in `artifacts/pytest.txt`; the DoneMeans receipt is created after the repository commit and binds the test command to that artifact.
