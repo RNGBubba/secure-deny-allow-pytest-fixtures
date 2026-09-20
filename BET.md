@@ -10,6 +10,8 @@ Human click: none required for local use. GitHub publication is the only externa
 
 Security boundary: local in-memory demo only; no third-party probing, exploit payloads, secrets, or filesystem traversal.
 
-Repository: pending publication after local verification.
+Repository: https://github.com/RNGBubba/secure-deny-allow-pytest-fixtures
+
+Published commit: dfae6039cbebdd3faf53cc9c4788540b416fc860.
 
 Verification is recorded in `artifacts/pytest.txt`; the DoneMeans receipt is created after the repository commit and binds the test command to that artifact.
